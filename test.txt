@@ -6,3 +6,6 @@ $ git checkout test_branch
 --
 
 modified line
+--
+
+new mod line
